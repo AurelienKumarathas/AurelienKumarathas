@@ -37,8 +37,10 @@ Security Engineering roles where I can help teams build secure-by-default system
 - HashiCorp Terraform Associate 003 (2025)
 - AWS Certified Cloud Practitioner (2025)
 - GitHub Actions (2025)
+- Google Cybersecurity Professional Certificate — Google (2024)
 - SailPoint Certified IdentityNow Associate (2024)
 - BCS Information Security Management Principles (2024)
+- Hands-On Essentials: Data Warehousing Workshop — Snowflake (2026)
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/aurelienkumarathas)
