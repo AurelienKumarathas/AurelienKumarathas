@@ -33,8 +33,8 @@ DevSecOps Engineer · Cloud Security Engineer · Security Engineer (Platform/Clo
 
 ### 🚀 Pipeline Status
 
-![IaC Security Pipeline](https://github.com/AurelienKumarathas/terraform-security-project/actions/workflows/iac-security.yml/badge.svg)
-![DevSecOps Pipeline](https://github.com/AurelienKumarathas/devsecops-pipeline-project-1/actions/workflows/devsecops-pipeline.yml/badge.svg)
+[![IaC Security Pipeline](https://github.com/AurelienKumarathas/terraform-security-project/actions/workflows/iac-security.yml/badge.svg)](https://github.com/AurelienKumarathas/terraform-security-project/actions/workflows/iac-security.yml)
+[![DevSecOps Pipeline — hardened](https://github.com/AurelienKumarathas/devsecops-pipeline-project-1/actions/workflows/devsecops-pipeline.yml/badge.svg?branch=hardened)](https://github.com/AurelienKumarathas/devsecops-pipeline-project-1/actions/workflows/devsecops-pipeline.yml)
 
 ---
 
@@ -71,7 +71,7 @@ DevSecOps Engineer · Cloud Security Engineer · Security Engineer (Platform/Clo
 ### 📜 Certifications
 
 - HashiCorp **Terraform Associate 003** (2025)
-- AWS Certified **Cloud Practitioner** (2025)
+- AWS Certified **Cloud Practitioner** (2025) — *AWS Solutions Architect Associate in progress*
 - **GitHub Actions** Certification (2025)
 - Google **Cybersecurity Professional Certificate** (2024)
 - BCS **Information Security Management Principles** (2024)
